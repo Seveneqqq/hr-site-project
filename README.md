@@ -1,13 +1,10 @@
 # hr-site-project
-
-
 - HTML/CSS
 - PHP
 - JS
 - Oracle DB
 
-
-  Functions :
+Functions :
 
 - Showing all employees
 - Adding new employee
